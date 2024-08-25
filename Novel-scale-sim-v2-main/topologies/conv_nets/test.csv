@@ -1,0 +1,2 @@
+Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+Inc5b_3x3, 7, 7, 5, 5, 1, 384, 21,
